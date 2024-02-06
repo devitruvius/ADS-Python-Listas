@@ -1,6 +1,6 @@
 # Listas em Python
 
-Este repositório contém exemplos de código em Python que aplicam conceitos das estruturas de condição. Os códigos foram desenvolvidos como parte das atividades da disciplina de Fundamentos de Algoritmo do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). O objetivo principal do cumprimento destas atividades foi fornecer uma prática sólida e consolidar os conceitos fundamentais relacionados às estruturas condicionais em Python, promovendo a compreensão e o aprimoramento das habilidades de programação nessa linguagem.
+Este repositório apresenta uma série de exemplos de código em Python que demonstram a aplicação das estruturas de listas. Os códigos foram elaborados como parte das atividades da disciplina de Fundamentos de Algoritmo do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). O principal objetivo dessas atividades é proporcionar uma prática sólida e consolidar os conceitos essenciais relacionados às estruturas de coleções em Python, buscando a compreensão aprofundada e o aprimoramento das habilidades de programação.
 
 ## Estrutura do Repositório
 
@@ -8,51 +8,56 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
 
 ## Atividades
 
-1. **Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem que segue a tabela abaixo. Para alunos de exame, calcule e mostre a nota que devera ser tirada no exame para aprová-lo, considerando que a média no exame é 6.0.**<br>
+1. **Faça um Programa que leia uma lista de 5 números inteiros e mostre-os.**
 
 - [Sistema de Avaliação Escolar]()
 <br>
 
-2. **Faça um programa que receba dois números e mostre o maior.**
+2. **Faça um Programa que leia uma lista de 10 números reais e mostre-os na ordem inversa.**
  
 - [Sistema de Identificação do Maior Número]()
 <br> 
 
-3. **Faça um programa que receba três números e mostre-os em ordem crescente.**
+3. **Faça um Programa que leia 4 notas, mostre as notas e a média na tela.**
 
 - [Sistema de Ordenação Crescente]()
 <br>
  
-4. **Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga esta regra. Mostre, em seguida, os quatro números em ordem decrescente.**
+4. **Faça um Programa que leia uma lista de 10 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes.**
 
 - [Sistema de Ordenação Decrescente]()
 <br>
 
-5. **Faça um programa que receba o dia o mês e o ano e mostre nos seguintes formatos: dia/mês/ano - mês por extenso. (ex: 19/03/2020 -> 19 de março de 2020).**
+5. **Faça um Programa que leia 20 números inteiros e armazene-os numa lista. Armazene os números pares na lista PAR e os números IMPARES na lista impar. Imprima as três listas.**
 
 - [Sistema de Formatação de Datas]()
 <br>
 
-6. **Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:**<br>
+6. **Faça um Programa que peça as quatro notas de 10 alunos, calcule e armazene numa lista a média de cada aluno, imprima o número de alunos com média maior ou igual a 7.0.**
 
 - [Sistema de Ajuste Salarial]()
 <br>
 
-7. **Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário desse funcionário, acrescido de bonificação e de auxílio-escola.**<br>
+7. **Faça um Programa que leia uma lista de 5 números inteiros, mostre a soma, a multiplicação e os números.**
 
 - [Sistema de Cálculo de Salário com Bonificação e Auxílio-Escola]()
 <br>
 
-8. **Faça um programa para resolver equações do 2º. grau. (utilize a função RAIZ para a raiz quadrada).**
+8. **Faça um Programa que peça a idade e a altura de 5 pessoas, armazene cada informação na sua respectiva lista. Imprima a idade e a altura na ordem inversa a ordem lida.**
     
 - [Calculadora de Equação Quadrática]()
 <br>
 
-9. **Dados três valores X, Y e Z, verificar se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verificar se o um triângulo equilátero, isósceles ou escaleno. Se eles não formarem um triângulo escrever uma mensagem. Considerar que:**
+9. **Faça um Programa que leia uma lista A com 10 números inteiros, calcule e mostre a soma dos quadrados dos elementos da lista.**
 
 - [Verificador e Classificador de Triângulos]()
 <br>
 
-10. **Faça um programa que receba:**
+10. **Faça um Programa que leia duas listas com 10 elementos cada. Gere uma terceira lista de 20 elementos, cujos valores deverão ser compostos pelos elementos intercalados dos duas outras listas.**
+
+- [Calculadora de Preço Total com Imposto para Produtos]()
+<br>
+
+11. **Altere o programa anterior, intercalando 3 listas de 10 elementos cada.**
 
 - [Calculadora de Preço Total com Imposto para Produtos]()
