@@ -1,4 +1,4 @@
-# Listas em Python
+# Estruturas de Listas em Python
 
 Este repositório apresenta uma série de exemplos de código em Python que demonstram a aplicação das estruturas de listas. Os códigos foram elaborados como parte das atividades da disciplina de Fundamentos de Algoritmo do curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). O principal objetivo dessas atividades é proporcionar uma prática sólida e consolidar os conceitos essenciais relacionados às estruturas de coleções em Python, buscando a compreensão aprofundada e o aprimoramento das habilidades de programação.
 
