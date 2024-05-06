@@ -27,7 +27,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    for numero in numeros:
        print(numero)
    ```
-<br>
+<hr>
 
 2. **Faça um Programa que leia uma lista de 10 números reais e mostre-os na ordem inversa.**
  
@@ -48,7 +48,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    for numero_real in reversed(numeros_reais):
      print(numero_real)
    ```
-<br> 
+<hr> 
 
 3. **Faça um Programa que leia 4 notas, mostre as notas e a média na tela.**
 
@@ -75,7 +75,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    # Mostrando a média na tela
    print(f"\nMédia das notas: {media}")
    ```
-<br>
+<hr>
  
 4. **Faça um Programa que leia uma lista de 10 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes.**
 
@@ -106,7 +106,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    
    print("\nQuantidade de consoantes:", len(consoantes))
    ```
-<br>
+<hr>
 
 5. **Faça um Programa que leia 20 números inteiros e armazene-os numa lista. Armazene os números pares na lista PAR e os números IMPARES na lista impar. Imprima as três listas.**
 
@@ -138,7 +138,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    print("\nNúmeros pares:", pares)
    print("\nNúmeros ímpares:", impares)
    ```
-<br>
+<hr>
 
 6. **Faça um Programa que peça as quatro notas de 10 alunos, calcule e armazene numa lista a média de cada aluno, imprima o número de alunos com média maior ou igual a 7.0.**
 
@@ -173,7 +173,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    # Imprimindo o número de alunos aprovados
    print("\nNúmero de alunos com média maior ou igual a 7.0:", alunos_aprovados)
    ```
-<br>
+<hr>
 
 7. **Faça um Programa que leia uma lista de 5 números inteiros, mostre a soma, a multiplicação e os números.**
 
@@ -200,7 +200,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    print("Soma dos números:", soma)
    print("Multiplicação dos números:", multiplicacao)
    ```
-<br>
+<hr>
 
 8. **Faça um Programa que peça a idade e a altura de 5 pessoas, armazene cada informação na sua respectiva lista. Imprima a idade e a altura na ordem inversa a ordem lida.**
     
@@ -230,7 +230,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    for altura in reversed(alturas):
        print(altura)
    ```
-<br>
+<hr>
 
 9. **Faça um Programa que leia uma lista A com 10 números inteiros, calcule e mostre a soma dos quadrados dos elementos da lista.**
 
@@ -288,7 +288,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     print("\nTerceira lista com elementos intercalados:")
     print(lista3)
     ```
-<br>
+<hr>
 
 11. **Altere o programa anterior, intercalando 3 listas de 10 elementos cada.**
 
@@ -332,3 +332,8 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     print("\nQuarta lista (elementos intercalados das três primeiras listas):")
     print(lista_final)
     ```
+<hr>
+
+## Fundamentos de Algoritmo
+
+Acesse o repositório principal: https://github.com/devitruvius/ADS-fundamentos-de-algoritmos
