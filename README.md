@@ -345,7 +345,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    - [Repositório da Lista de Atividades III](https://github.com/devitruvius/FA-python-loop-statement)
 
 * **Atividade 4: Aplicando Conceitos das Estruturas de Listas em Python**
-   - [Repositório da Lista de Atividades IV](#)
+   - ***Repositório da Lista de Atividades IV***
 
 * **Atividade 5: Aplicando Conceitos das Estruturas de Funções em Python**
    - [Repositório da Lista de Atividades V](https://github.com/devitruvius/ADS-python-functions)
